@@ -85,3 +85,19 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 * The hospital already demonstrates the capability to recover denied claims when it pursues them — **44.7%** of denied claims were resubmitted and **61.9%** of those resubmissions were ultimately paid. The barrier is not capability, it is consistency
 * **55.3%** of denied claims are written off without appeal, with **43.8%** classified as administrative denials — Coding errors, eligibility issues, duplicate claims. The billing team can act directly on these denials without physician involvement.
 
+--- 
+
+<h2 align="center">Key Questions for Stakeholders Prior to Project Advancement</h2>
+
+*These are questions I would have raised with stakeholders and project leads before finalizing the analysis — to pressure-test assumptions, clarify data definitions, and ensure the insights reflect operational reality.*
+
+**1 — What interval does SDRMC use to define a readmission — 30, 60, or 90 days?** This analysis uses a **30-day** window consistent with Centers for Medicare and Medicaid Services (CMS) standards. A longer interval would capture additional return visits and materially increase the reported **10.9%** readmission rate
+
+**2 — Are readmissions tracked condition-specific or across all diagnoses?** This analysis flags any inpatient return within **30 days** as a readmission regardless of whether the diagnosis matches the original admission. Condition-specific tracking would produce a lower, differently distributed rate
+
+**3 — How does SDRMC's billing team determine which denied claims to resubmit versus write off?** Understanding the criteria currently used to prioritize resubmission attempts would sharpen the **$712,537** recovery opportunity estimate and identify whether the **55.3%** write-off rate reflects deliberate policy or inconsistent practice
+
+**4 — Does SDRMC conduct pre-submission documentation reviews for Emergency and Inpatient claims before they are sent to payers?** **56.2%** of denials cite Medical Necessity Not Established or Prior Authorization Required — both originating in documentation gaps during the encounter. Knowing whether a review process exists before claims are submitted determines whether the fix is process, staffing, or training
+
+**5 — How are encounters with the same patient on consecutive days recorded — as a single continuous encounter or as separate daily entries?** If the EHR resets encounter records at midnight for extended stays, the **349** inpatient encounter count and **60-hour** average LOS may reflect daily resets rather than individual admissions
+
