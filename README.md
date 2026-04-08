@@ -66,3 +66,22 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 * The net collection rate — the percentage of billed charges actually collected — stands at **75.7%** on accepted claims. No Insurance sits at **25.4%** — less than a third of Medicare's **79.6%** rate. Uninsured inpatient encounters cost **$17,514** more to deliver than equivalent insured encounters — a cost premium that is overwhelmingly unrecovered given the **25.4%** collection rate on uninsured claim
 * The net collection rate drops from **75.7%** on accepted claims to **69.0%** when denied and written-off claims are included — a **6.7** percentage point gap that quantifies the direct revenue cost of SDRMC's denial volume
 
+--- 
+
+<h2 align="center">The Revenue Diagnosis</h2>
+
+**The highest-cost encounters collect the fewest cents per dollar delivered**
+* When amount collected is measured against cost of care delivered, a clear pattern emerges. Wellness encounters collect **81.0 cents** per dollar of care delivered. Elective Procedure encounters collect **78.8 cents**. Emergency encounters collect **65.7 cents** and Inpatient encounters collect **67.5 cents** — both falling below the hospital's **75%** blended benchmark
+* Emergency and Inpatient are the only two encounter types that simultaneously carry above-average denial rates and below-average collection efficiency. Every other encounter type sits above the **75%** benchmark on collection and below the **10.6%** simple average on denials
+* The revenue gap is not distributed evenly across the hospital — it is concentrated in two encounter types that represent **13.5%** of total volume but account for a disproportionate share of the **$2.6M** written off across the period
+
+**More than half of all denials require physician involvement to resolve — not just billing corrections**
+* Of **788** total denied claims across 2018–2024, the two largest denial categories are Medical Necessity Not Established at **31.7%** (**250 claims**) and Prior Authorization Required at **24.5%** (**193 claims**) — together accounting for **56.2%** of all denials
+* Both categories require clinical documentation review and in many cases physician attestation to resolve — they cannot be corrected by the billing team alone. For billing leadership, closing the clinical denial gap requires a coordinated response between physicians and administrators
+* The remaining **43.8%** of denials — Coding or Documentation Error at **19.9%** (**157 claims**), Patient Not Covered at **14.1%** (**111 claims**), and Duplicate Claim at **9.8%** (**77 claims**) — are administrative in nature and addressable through resubmission without clinical involvement
+
+**$713K is recoverable — and the path to recovery is already partially in place**
+* Of **$3.3M** in total denied claim value, **$2.6M** was written off without a single resubmission attempt. The estimated **$712,537** recoverable portion isn't a projection built on optimistic assumptions — it's calculated directly from SDRMC's own resubmission and recovery track record
+* The hospital already demonstrates the capability to recover denied claims when it pursues them — **44.7%** of denied claims were resubmitted and **61.9%** of those resubmissions were ultimately paid. The barrier is not capability, it is consistency
+* **55.3%** of denied claims are written off without appeal, with **43.8%** classified as administrative denials — Coding errors, eligibility issues, duplicate claims. The billing team can act directly on these denials without physician involvement.
+
