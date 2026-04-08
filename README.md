@@ -12,7 +12,7 @@ The goal was to move beyond a standard operational snapshot and build a complete
 - **Claims and Reimbursement**: claim denial rates, payer mix concentration, days in accounts receivable, and net collection performance.
 - **The Revenue Diagnosis**: connecting the clinical patterns from Clinical Operations to the financial outcomes in Claims and Reimbursement, and surfacing revenue recovery opportunities for billing leadership through improved resubmission practices.
 
--- 
+---
 
 <h1 align="center">Executive Summary</h1>
 
