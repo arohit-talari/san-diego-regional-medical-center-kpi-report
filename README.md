@@ -87,6 +87,19 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 
 --- 
 
+<h2 align="center">Recommendations</h2>
+
+**Establish a systematic resubmission protocol to recover the $713K sitting in written-off denied claims**
+
+Of **$2,575,189** in written-off denied claims, an estimated **$712,537** is recoverable by applying SDRMC's own historical resubmission and recovery rates consistently across all denial categories. The hospital already demonstrates a **61.9%** recovery rate on claims it resubmits. Priority should be placed on the **43.8%** of denials classified as administrative — Coding or Documentation Error, Patient Not Covered, and Duplicate Claims — where billing staff can resubmit claims directly without physician involvement. A structured **30-day** resubmission review cycle applied to written-off claims would be the most immediate financial lever available to billing leadership.
+
+**Invest in pre-submission documentation review for Emergency and Inpatient claims**
+
+Emergency encounters carry a **19.7%** denial rate and Inpatient encounters carry **16.0%** — the two highest in the data and both well above the **10.6%** simple average across all encounter types. Of all denied claims, **56.2%** cite Medical Necessity Not Established or Prior Authorization Required as the denial reason — both of which originate in documentation gaps during the encounter itself rather than billing errors after the fact. Reviewing clinical notes before submitting claims to insurers for high-acuity encounter types would directly reduce the volume of clinically-driven denials before they enter the pipeline. A targeted documentation audit focused on Emergency and Inpatient encounters — the only two encounter types collecting below the hospital's **75%** blended benchmark — represents the highest-leverage clinical intervention available.
+
+
+
+
 <h2 align="center">Key Questions for Stakeholders Prior to Project Advancement</h2>
 
 *These are questions I would have raised with stakeholders and project leads before finalizing the analysis — to pressure-test assumptions, clarify data definitions, and ensure the insights reflect operational reality.*
