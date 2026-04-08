@@ -26,3 +26,23 @@ The uninsured patient segment runs through every dimension of this report as its
 
 On the revenue cycle, the blended claim denial rate of **8.6%** has improved from a **9.1%** peak in 2020 to **7.7%** by 2024 — a positive trend that has not yet translated into full revenue recovery. Of **$3.3M** in denied claims across the period, **44.7%** were resubmitted and **61.9%** of those resubmissions were ultimately paid — leaving an estimated **$713K** recoverable through more consistent resubmission practices. The pipeline is not broken — it is leaking, and the leak has a precise location.
 
+---
+
+<h1 align="center">Insights Deep Dive</h1>
+
+<h2 align="center">Clinical Operations</h2>
+
+**Inpatient encounters represent the smallest share of volume — but carry the highest clinical and financial weight**
+* SDRMC recorded **9,169 total encounters** between 2018 and 2024, averaging **1,310** per year. Of those, **349** were classified as inpatient encounters — a **3.8% inpatient rate** — representing the highest-acuity and highest-cost visit category in the data
+* The 30-day readmission rate averaged **10.9%** across the period (**38 readmissions, 349 inpatient encounters**), peaking at **15.5%** in 2018–2019 before dropping to **6.0%** in 2021 as admission volumes contracted during the pandemic
+*  Post-pandemic readmission rates have stabilized in the **10–11%** range — above the COVID-era low but below the pre-pandemic peak — signaling an opportunity to sustain the operational discipline demonstrated during 2020–2021. For a COO focused on care quality and patient flow, closing the gap between the current **10.9%** rate and the **6.0%** COVID-era low is the most direct lever available.
+
+**The COVID period exposed the fragility of inpatient efficiency — and full recovery hasn't arrived**
+* Average inpatient length of stay held at **54 hours** in 2018–2019 before surging **43%** to **78 hours** at its 2021 peak — driven by the complexity and intensity of COVID-era inpatient care
+* By 2022, LOS returned to approximately **56 hours** and has hovered near **55 hours** through 2024 — still **2% above** the pre-pandemic baseline of **54 hours**
+* At **349 inpatient encounters** per period, each additional hour of average LOS represents **349 bed-hours of capacity**. For a COO evaluating inpatient efficiency, the **1-hour gap** from the pre-pandemic baseline represents recoverable capacity that the hospital has not yet reclaimed.
+
+**Uninsured patients cost significantly more — and the gap concentrates in the working-age population**
+* Uninsured inpatient encounters average **$42,768** per visit — **69% above** the insured inpatient average of **$25,254**. Across all encounter types, uninsured patients average **$2,608** versus **$2,238** for insured patients — a **16.5% cost premium** that compounds across **15.9%** of total encounters
+* The cost burden is not evenly distributed by age. Patients aged **50–64** carry the highest average encounter cost at **$2,891**, followed by **18–34** at **$2,832**. The **80+** cohort averages just **$1,281** — reflecting near-universal Medicare coverage in that age group
+* **74.4%** of all procedures performed at SDRMC are covered by insurance — measured at the individual procedure level, not the encounter level. Government payers cover **90%** of procedures, commercial payers cover **85%**, and uninsured patients carry **0%** procedure coverage by definition. Every uncovered procedure in this dataset belongs to an uninsured patient — there are no exceptions.
