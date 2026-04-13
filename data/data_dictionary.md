@@ -1,4 +1,4 @@
-# Data Dictionary — San Diego Regional Medical Center KPI Dataset
+# Data Dictionary — San Diego Regional Medical Center
 
 **4 tables · 36,330 total records · 2018–2024**
 
