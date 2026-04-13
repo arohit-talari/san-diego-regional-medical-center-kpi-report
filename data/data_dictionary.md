@@ -87,27 +87,3 @@ All field definitions, data types, and source notes across the Patients, Encount
 | `age_group` | Text | Patient age group. Added via XLOOKUP from `Encounters` table using encounter_id. Used for age-level segmentation in claims analysis |
 
 ---
-
-## Calculated Fields — Tableau
-
-The following fields were built as Tableau calculated fields within the workbook and do not exist as columns in the Excel dataset.
-
-| Field | Formula | Description |
-|---|---|---|
-| `Readmissions` | `SUM(IF [Readmission Flag] = TRUE THEN 1 ELSE 0 END)` | Count of readmission events across filtered view |
-| `Readmission Rate` | `SUM(IF [Readmission Flag]=TRUE THEN 1 ELSE 0 END) / SUM(IF [Encounter Type]='Inpatient' THEN 1 ELSE 0 END)` | Readmissions as a share of total inpatient encounters |
-| `Pct Procedures Insured` | `SUM(IF [Insured]=TRUE THEN 1 ELSE 0 END) / COUNT([Procedure Id])` | Share of procedures covered by insurance |
-| `Denial Rate` | `SUM(IF STARTSWITH([Denial Status],'Denied') THEN 1 ELSE 0 END) / COUNT([Claim Id])` | Share of claims denied by payers |
-| `Cost To Collection Ratio` | `SUM([Amount Paid]) / SUM([Base Encounter Cost])` | Cents collected per dollar of care delivered |
-| `Revenue Written Off` | `SUM(IF [Denial Status]='Denied - Written Off' THEN [Amount Billed] ELSE 0 END)` | Total value of claims written off without recovery |
-| `Resubmission Rate` | `SUM(IF [Resubmission Flag]=TRUE THEN 1 ELSE 0 END) / SUM(IF STARTSWITH([Denial Status],'Denied') THEN 1 ELSE 0 END)` | Share of denied claims resubmitted |
-| `Recovery Rate` | `SUM(IF [Denial Status]='Denied - Recovered' THEN 1 ELSE 0 END) / SUM(IF [Resubmission Flag]=TRUE THEN 1 ELSE 0 END)` | Share of resubmitted claims ultimately paid |
-| `Recoverable Opportunity` | `SUM(IF [Denial Status]='Denied - Written Off' THEN [Amount Billed] ELSE 0 END) * 0.447 * 0.619` | Estimated recoverable revenue from written-off claims |
-| `LOS vs 2018 Baseline` | `(AVG([Length Of Stay Hrs]) - 53.7) / 53.7` | Percentage change in average LOS relative to 2018 baseline of 53.7 hours |
-| `Denial Complexity` | `IF [Denial Reason]='Medical Necessity Not Established' OR [Denial Reason]='Prior Authorization Required' THEN 'Clinical — requires physician involvement' ELSE 'Administrative — billing team can resolve' END` | Classifies denials as clinical or administrative based on denial reason |
-| `Total Admissions` | `SUM(IF [Admission Status] = 'Admitted' THEN 1 ELSE 0 END)` | Count of encounters where patient was formally admitted regardless of encounter type |
-| `Total Readmissions` | `SUM(IF [Readmission Flag] = TRUE THEN 1 ELSE 0 END)` | Count of readmission events — same as Readmissions field |
-
----
-
-*This data dictionary covers all raw fields across the four source tables and all calculated fields built in Tableau. For metric definitions and KPI sourcing see `metric_index.md`.*
