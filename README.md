@@ -150,3 +150,9 @@ This analysis treats each record in the `Encounters` table as one complete patie
 
 **Days in A/R — defined as days between claim submission and payment**
 Days in Accounts Receivable (A/R) measures the average number of days between when a claim is submitted to a payer and when payment is received. A lower number indicates faster payment and stronger cash flow management. The blended average of **40 days** across all payer types masks significant variation — from **23 days** for government payers to **120 days** for uninsured patients.
+
+---
+
+<h1 align="center">Dashboard</h1>
+
+The interactive dashboard for this report is available on [Tableau Public](https://public.tableau.com/app/profile/arohit.talari/viz/SanDiegoRegionalMedicalCenter-ExecutiveKPIReport/KPIReport)
