@@ -87,7 +87,7 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 
 --- 
 
-<h2 align="center">Recommendations</h2>
+<h1 align="center">Recommendations</h1>
 
 **Establish a systematic resubmission protocol to recover the $713K sitting in written-off denied claims**
 
@@ -97,10 +97,9 @@ Of **$2,575,189** in written-off denied claims, an estimated **$712,537** is rec
 
 Emergency encounters carry a **19.7%** denial rate and Inpatient encounters carry **16.0%** — the two highest in the data and both well above the **10.6%** simple average across all encounter types. Of all denied claims, **56.2%** cite Medical Necessity Not Established or Prior Authorization Required as the denial reason — both of which originate in documentation gaps during the encounter itself rather than billing errors after the fact. Reviewing clinical notes before submitting claims to insurers for high-acuity encounter types would directly reduce the volume of clinically-driven denials before they enter the pipeline. A targeted documentation audit focused on Emergency and Inpatient encounters — the only two encounter types collecting below the hospital's **75%** blended benchmark — represents the highest-leverage clinical intervention available.
 
+---
 
-
-
-<h2 align="center">Key Questions for Stakeholders Prior to Project Advancement</h2>
+<h1 align="center">Key Questions for Stakeholders Prior to Project Advancement</h1>
 
 *These are questions I would have raised with stakeholders and project leads before finalizing the analysis — to pressure-test assumptions, clarify data definitions, and ensure the insights reflect operational reality.*
 
@@ -114,3 +113,24 @@ Emergency encounters carry a **19.7%** denial rate and Inpatient encounters carr
 
 **5 — How are encounters with the same patient on consecutive days recorded — as a single continuous encounter or as separate daily entries?** If the EHR resets encounter records at midnight for extended stays, the **349** inpatient encounter count and **60-hour** average LOS may reflect daily resets rather than individual admissions
 
+---
+
+<h1 align="center">Assumptions and Caveats</h1>
+
+**Readmission definition — 30-day window, any diagnosis**
+A readmission was defined as any inpatient encounter where the same patient returned for another inpatient visit within **30 days** of their prior discharge, regardless of whether the return visit was related to the original diagnosis. This is consistent with the most widely used industry standard but may overcount readmissions compared to a definition that only flags returns for the same condition. The **10.9%** readmission rate reported here reflects this broad definition — a condition-specific approach would likely produce a lower figure.
+
+**COVID-era attribution — timing-based inference**
+The 2020–2021 spike in inpatient length of stay (**54 hours → 78 hours**) and the corresponding surge in inpatient costs were attributed to the COVID-19 pandemic based on the timing of the changes. The data shows the pattern clearly — but does not confirm the cause. The analysis treats COVID as the most plausible explanation given the timeframe, while acknowledging that other operational or external factors may have contributed.
+
+**Revenue recovery opportunity — directional estimate**
+The **$712,537** recoverable revenue figure was calculated by applying SDRMC's own historical resubmission rate (**44.7%**) and recovery rate (**61.9%**) to the **$2,575,189** in written-off denied claims. This assumes that written-off claims are as recoverable as the denied claims SDRMC already chose to resubmit — which may not hold for every denial reason or payer. The figure is best understood as a directional opportunity rather than a guaranteed recovery amount.
+
+**Readmission flag — simplified rule applied uniformly**
+The readmission flag in the `Encounters` table was calculated using a straightforward rule — same patient, inpatient encounter, within **30 days** of a prior inpatient encounter. Real-world readmission tracking is more nuanced — planned readmissions, transfers from other facilities, and same-day returns are often excluded or treated differently depending on the health system's internal definition. The **38 readmissions** and **10.9%** rate reported here may differ from what SDRMC would report under their own internal methodology.
+
+**Encounter logging — one record assumed per distinct visit**
+This analysis treats each record in the `Encounters` table as one complete patient visit from admission to discharge. Some hospital systems reset encounter records at midnight — meaning a patient admitted Monday and discharged Wednesday could appear as three separate records rather than one. If SDRMC's system works that way, the total encounter count of 9,169 and the average inpatient length of stay of 60 hours would both require reinterpretation. This was flagged as a clarifying question for stakeholders prior to project advancement.
+
+**Days in A/R — defined as days between claim submission and payment**
+Days in Accounts Receivable (A/R) measures the average number of days between when a claim is submitted to a payer and when payment is received. A lower number indicates faster payment and stronger cash flow management. The blended average of **40 days** across all payer types masks significant variation — from **23 days** for government payers to **120 days** for uninsured patients.
