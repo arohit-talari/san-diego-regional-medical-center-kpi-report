@@ -1,7 +1,7 @@
 <h1 align="center">San Diego Regional Medical Center — KPI Report</h1>
 
 <p align="center">
-<img src="executive_kpi_report.png" width="800">
+<img src="images/executive_kpi_report.png" width="800">
 </p>
 
 ---
@@ -37,7 +37,7 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 <h2 align="center">Clinical Operations</h2>
 
 <p align="center">
-<img src="act1_clinical_operations.png" width="800">
+<img src="images/act1_clinical_operations.png" width="800">
 </p>
 
 **Inpatient encounters represent the smallest share of volume — but carry the highest clinical and financial weight**
@@ -60,7 +60,7 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 <h2 align="center">Claims and Reimbursement</h2>
 
 <p align="center">
-<img src="act2_claims_and_reimbursement.png" width="800">
+<img src="images/act2_claims_and_reimbursement.png" width="800">
 </p>
 
 **Denial rates are improving — but the gap between high and low-acuity encounter types reveals where the real problem lives**
@@ -83,7 +83,7 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 <h2 align="center">The Revenue Diagnosis</h2>
 
 <p align="center">
-<img src="act3_the_diagnosis.png" width="800">
+<img src="images/act3_the_diagnosis.png" width="800">
 </p>
 
 **The highest-cost encounters collect the fewest cents per dollar delivered**
