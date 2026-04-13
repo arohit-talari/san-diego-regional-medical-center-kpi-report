@@ -153,6 +153,6 @@ Days in Accounts Receivable (A/R) measures the average number of days between wh
 
 ---
 
-<h2 align="center">Dashboard</h2>
+<h1 align="center">Dashboard</h1>
 
 The interactive dashboard for this report is available on [Tableau Public](https://public.tableau.com/app/profile/arohit.talari/viz/SanDiegoRegionalMedicalCenter-ExecutiveKPIReport/KPIReport)
