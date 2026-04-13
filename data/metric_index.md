@@ -1,4 +1,4 @@
-# Metric Index — San Diego Regional Medical Center KPI Report
+# Metric Index — San Diego Regional Medical Center
 
 This document covers every KPI and derived metric referenced in the analysis — what it measures, how I calculated it, and where the nuance lives. For raw field definitions see `data_dictionary.md`.
 
