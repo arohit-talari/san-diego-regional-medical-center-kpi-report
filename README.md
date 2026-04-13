@@ -1,5 +1,9 @@
 <h1 align="center">San Diego Regional Medical Center — KPI Report</h1>
 
+<p align="center">
+<img src="executive_kpi_report.png" width="800">
+</p>
+
 ---
 
 <h1 align="center">Client Background</h1>
@@ -32,6 +36,10 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 
 <h2 align="center">Clinical Operations</h2>
 
+<p align="center">
+<img src="act1_clinical_operations.png" width="800">
+</p>
+
 **Inpatient encounters represent the smallest share of volume — but carry the highest clinical and financial weight**
 * SDRMC recorded **9,169 total encounters** between 2018 and 2024, averaging **1,310** per year. Of those, **349** were classified as inpatient encounters — a **3.8% inpatient rate** — representing the highest-acuity and highest-cost visit category in the data
 * The 30-day readmission rate averaged **10.9%** across the period (**38 readmissions, 349 inpatient encounters**), peaking at **15.5%** in 2018–2019 before dropping to **6.0%** in 2021 as admission volumes contracted during the pandemic
@@ -51,6 +59,10 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 
 <h2 align="center">Claims and Reimbursement</h2>
 
+<p align="center">
+<img src="act2_claims_and_reimbursement.png" width="800">
+</p>
+
 **Denial rates are improving — but the gap between high and low-acuity encounter types reveals where the real problem lives**
 * SDRMC's blended claim denial rate — the percentage of submitted claims rejected by payers — averaged **8.6%** across 2018–2024, declining from a peak of **9.1%** in 2020 to **7.7%** by 2024
 * That headline figure masks significant variation by encounter type. Emergency encounters are denied at **19.7%** — nearly **5x** the **3.7%** Wellness rate. Inpatient encounters follow at **16.0%**. The five remaining encounter types all fall between **6.2%** and **11.1%**
@@ -69,6 +81,10 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 --- 
 
 <h2 align="center">The Revenue Diagnosis</h2>
+
+<p align="center">
+<img src="act3_the_diagnosis.png" width="800">
+</p>
 
 **The highest-cost encounters collect the fewest cents per dollar delivered**
 * When amount collected is measured against cost of care delivered, a clear pattern emerges. Wellness encounters collect **81.0 cents** per dollar of care delivered. Elective Procedure encounters collect **78.8 cents**. Emergency encounters collect **65.7 cents** and Inpatient encounters collect **67.5 cents** — both falling below the hospital's **75%** blended benchmark
