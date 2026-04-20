@@ -115,7 +115,7 @@ Emergency encounters carry a **19.7%** denial rate and Inpatient encounters carr
 
 ---
 
-<h1 align="center">Key Questions for Stakeholders Prior to Project Advancement</h1>
+<h1 align="center">Questions for Stakeholders Prior to Project Advancement</h1>
 
 *These are questions I would have raised with stakeholders and project leads before finalizing the analysis — to pressure-test assumptions, clarify data definitions, and ensure the insights reflect operational reality.*
 
