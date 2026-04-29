@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center">Client Background</h1>
+<h2 align="center">Client Background</h2>
 
 As an Analytics Consultant for San Diego Regional Medical Center (SDRMC), I was tasked with developing a high-level KPI report for the executive leadership team, specifically the Chief Financial Officer and Chief Operating Officer. This report comprehensively analyzes **36,330 records** across four interrelated tables — **1,500 patients** (`Patients`), **9,169 clinical encounters** (`Encounters`), **16,492 procedures** (`Procedures`), and **9,169 claims** (`Claims`) — covering 2018 to 2024 across seven encounter types and eight payer categories.
 
@@ -18,7 +18,7 @@ The goal was to move beyond a standard operational snapshot and build a complete
 
 ---
 
-<h1 align="center">Executive Summary</h1>
+<h2 align="center">Executive Summary</h2>
 
 SDRMC delivered **9,169 patient encounters** between 2018 and 2024 — but the revenue story underneath it becomes harder to ignore. Of **$22.6M** billed across the period, **$2.6M was written off as uncollectable**, representing **14.7%** of total billed revenue lost. That gap is not random — it is concentrated within specific encounter types, specific payer segments, and a billing pipeline that consistently leaves recoverable revenue behind.
 
@@ -32,9 +32,9 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 
 ---
 
-<h1 align="center">Insights Deep Dive</h1>
+<h2 align="center">Insights Deep Dive</h2>
 
-<h2 align="center">Clinical Operations</h2>
+<h3 align="center">Clinical Operations</h3>
 
 <p align="center">
 <img src="images/act1_clinical_operations.png" width="800">
@@ -57,7 +57,7 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 
 --- 
 
-<h2 align="center">Claims and Reimbursement</h2>
+<h3 align="center">Claims and Reimbursement</h3>
 
 <p align="center">
 <img src="images/act2_claims_and_reimbursement.png" width="800">
@@ -80,7 +80,7 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 
 --- 
 
-<h2 align="center">The Revenue Diagnosis</h2>
+<h3 align="center">The Revenue Diagnosis</h3>
 
 <p align="center">
 <img src="images/act3_the_diagnosis.png" width="800">
@@ -103,7 +103,7 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 
 --- 
 
-<h1 align="center">Recommendations</h1>
+<h2 align="center">Recommendations</h2>
 
 **Establish a systematic resubmission protocol to recover the $713K sitting in written-off denied claims**
 
@@ -115,7 +115,7 @@ Emergency encounters carry a **19.7%** denial rate and Inpatient encounters carr
 
 ---
 
-<h1 align="center">Questions for Stakeholders Prior to Project Advancement</h1>
+<h2 align="center">Questions for Stakeholders Prior to Project Advancement</h2>
 
 *These are questions I would have raised with stakeholders and project leads before finalizing the analysis — to pressure-test assumptions, clarify data definitions, and ensure the insights reflect operational reality.*
 
@@ -131,7 +131,7 @@ Emergency encounters carry a **19.7%** denial rate and Inpatient encounters carr
 
 ---
 
-<h1 align="center">Assumptions and Caveats</h1>
+<h2 align="center">Assumptions and Caveats</h2>
 
 **Readmission definition — 30-day window, any diagnosis**
 A readmission was defined as any inpatient encounter where the same patient returned for another inpatient visit within **30 days** of their prior discharge, regardless of whether the return visit was related to the original diagnosis. This is consistent with the most widely used industry standard but may overcount readmissions compared to a definition that only flags returns for the same condition. The **10.9%** readmission rate reported here reflects this broad definition — a condition-specific approach would likely produce a lower figure.
@@ -153,6 +153,6 @@ Days in Accounts Receivable (A/R) measures the average number of days between wh
 
 ---
 
-<h1 align="center">Dashboard</h1>
+<h2 align="center">Dashboard</h2>
 
 The interactive dashboard for this report is available on [Tableau Public](https://public.tableau.com/app/profile/arohit.talari/viz/SanDiegoRegionalMedicalCenter-ExecutiveKPIReport/KPIReport)
