@@ -113,6 +113,14 @@ Of **$2,575,189** in written-off denied claims, an estimated **$712,537** is rec
 
 Emergency encounters carry a **19.7%** denial rate and Inpatient encounters carry **16.0%**, the two highest in the data and both well above the **10.6%** simple average across all encounter types. Of all denied claims, **56.2%** cite Medical Necessity Not Established or Prior Authorization Required as the denial reason — both of which originate in documentation gaps during the encounter itself rather than billing errors after the fact. Reviewing clinical notes before submitting claims to insurers for high-acuity encounter types would directly reduce the volume of clinically-driven denials before they enter the pipeline. A targeted documentation audit focused on Emergency and Inpatient encounters — the only two encounter types collecting below the hospital's **75%** blended benchmark — represents the highest-leverage clinical intervention available.
 
+**Sustain the post-COVID readmission discipline through protocol standardization**
+
+The 30-day readmission rate dropped from **15.5%** pre-COVID (2018–2019) to **6.0%** in 2021, a **9.5** percentage point improvement driven by reduced admission volumes during the pandemic. By 2024 the rate has stabilized at **10.9%**, above the COVID-era low but meaningfully below pre-pandemic levels. The operational discipline demonstrated during 2020–2021 has not been fully lost, but it has not been fully codified either. Formalizing the discharge and post-acute care coordination protocols introduced during the pandemic — particularly for the encounter types most prone to readmission — would anchor the improvement and prevent regression toward the **15.5%** pre-COVID baseline.
+
+**Prioritize coverage intervention initiatives for the 18–64 uninsured population**
+
+Uninsured patients represent **15.9%** of all SDRMC encounters and carry a cost premium of **69%** above the insured inpatient average, averaging **$42,768** per inpatient encounter versus **$25,254** for insured patients. Their claims collect at **25.4** cents on the dollar and average **119.9** days to payment — the worst performance on every financial dimension in the dataset. The cost burden concentrates in the **18–64** age group, where employer-sponsored and marketplace coverage options exist but are not being utilized. Connecting uninsured patients in this cohort to available coverage programs at the point of scheduling or admission would reduce uncompensated care burden, improve collection rates, and shorten Days in A/R simultaneously. The financial case is straightforward — every uninsured inpatient encounter converted to an insured one recovers an average of **$17,514** in additional revenue.
+
 ---
 
 <h2 align="center">Questions for Stakeholders Prior to Project Advancement</h2>
