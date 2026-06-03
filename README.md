@@ -41,18 +41,18 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 </p>
 
 **Inpatient encounters represent the smallest share of volume — but carry the highest clinical and financial weight**
-* SDRMC recorded **9,169** total encounters between 2018 and 2024, averaging **1,310** per year. Of those, **349** were classified as inpatient encounters — a **3.8%** inpatient rate — representing the highest-acuity and highest-cost visit category in the data
-* The 30-day readmission rate averaged **10.9%** across the period (**38 readmissions, 349 inpatient encounters**), peaking at **15.5%** in 2018–2019 before dropping to **6.0%** in 2021 as admission volumes contracted during the pandemic
+* SDRMC recorded **9,169** total encounters between 2018 and 2024, averaging **1,310** per year. Of those, **349** were classified as inpatient encounters — a **3.8%** inpatient rate — representing the highest-acuity and highest-cost visit category in the data.
+* The 30-day readmission rate averaged **10.9%** across the period (**38 readmissions, 349 inpatient encounters**), peaking at **15.5%** in 2018–2019 before dropping to **6.0%** in 2021 as admission volumes contracted during the pandemic.
 * Post-pandemic readmission rates have stabilized in the **10–11%** range — above the COVID-era low but below the pre-pandemic peak — signaling an opportunity to sustain the operational discipline demonstrated during 2020–2021. For a COO focused on care quality and patient flow, closing the gap between the current **10.9%** rate and the **6.0%** COVID-era low is the most direct lever available.
 
 **The COVID period exposed the fragility of inpatient efficiency — and full recovery hasn't arrived**
-* Average inpatient length of stay held at **54** hours in 2018–2019 before surging **43%** to **78** hours at its 2021 peak, driven by the complexity and intensity of COVID-era inpatient care
-* By 2022, LOS returned to approximately **56** hours and has hovered near **55** hours through 2024, still **2%** above the pre-pandemic baseline of **54** hours
+* Average inpatient length of stay held at **54** hours in 2018–2019 before surging **43%** to **78** hours at its 2021 peak, driven by the complexity and intensity of COVID-era inpatient care.
+* By 2022, LOS returned to approximately **56** hours and has hovered near **55** hours through 2024, still **2%** above the pre-pandemic baseline of **54** hours.
 * At **349** inpatient encounters per period, each additional hour of average LOS represents **349** bed-hours of capacity. For a COO evaluating inpatient efficiency, the **1-hour gap** from the pre-pandemic baseline represents recoverable capacity that the hospital has not yet reclaimed.
 
 **Uninsured patients cost significantly more — and the gap concentrates in the working-age population**
-* Uninsured inpatient encounters average **$42,768** per visit — **69%** above the insured inpatient average of **$25,254**. Across all encounter types, uninsured patients average **$2,608** versus **$2,238** for insured patients, a **16.5%** cost premium that compounds across **15.9%** of total encounters
-* The cost burden is not evenly distributed by age. Patients aged **50–64** carry the highest average encounter cost at **$2,891**, followed by **18–34** at **$2,832**. The **80+** cohort averages just **$1,281**, reflecting near-universal Medicare coverage in that age group
+* Uninsured inpatient encounters average **$42,768** per visit — **69%** above the insured inpatient average of **$25,254**. Across all encounter types, uninsured patients average **$2,608** versus **$2,238** for insured patients, a **16.5%** cost premium that compounds across **15.9%** of total encounters.
+* The cost burden is not evenly distributed by age. Patients aged **50–64** carry the highest average encounter cost at **$2,891**, followed by **18–34** at **$2,832**. The **80+** cohort averages just **$1,281**, reflecting near-universal Medicare coverage in that age group.
 * **74.4%** of all procedures performed at SDRMC are covered by insurance — measured at the individual procedure level, not the encounter level. Government payers cover **90%** of procedures, commercial payers cover **85%**, and uninsured patients carry **0%** procedure coverage by definition. Every uncovered procedure in the data belongs to an uninsured patient — there are no exceptions.
 
 --- 
@@ -64,19 +64,19 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 </p>
 
 **Denial rates are improving — but the gap between high and low-acuity encounter types reveals where the real problem lives**
-* SDRMC's blended claim denial rate — the percentage of submitted claims rejected by payers — averaged **8.6%** across 2018–2024, declining from a peak of **9.1%** in 2020 to **7.7%** by 2024
-* That headline figure masks significant variation by encounter type. Emergency encounters are denied at **19.7%** — nearly **5x** the **3.7%** Wellness rate. Inpatient encounters follow at **16.0%**. The five remaining encounter types all fall between **6.2%** and **11.1%**
-* The concentration of denials within Emergency and Inpatient encounters is not coincidental. These encounters generate the most complex claims, creating documentation gaps that payers consistently exploit to deny reimbursement. For a CFO tracking revenue cycle performance, these two encounter types are where the denial problem lives
+* SDRMC's blended claim denial rate — the percentage of submitted claims rejected by payers — averaged **8.6%** across 2018–2024, declining from a peak of **9.1%** in 2020 to **7.7%** by 2024.
+* That headline figure masks significant variation by encounter type. Emergency encounters are denied at **19.7%** — nearly **5x** the **3.7%** Wellness rate. Inpatient encounters follow at **16.0%**. The five remaining encounter types all fall between **6.2%** and **11.1%**.
+* The concentration of denials within Emergency and Inpatient encounters is not coincidental. These encounters generate the most complex claims, creating documentation gaps that payers consistently exploit to deny reimbursement. For a CFO tracking revenue cycle performance, these two encounter types are where the denial problem lives.
 
 **Concentrated payer mix creates a structural ceiling on revenue performance**
-* Medicare accounts for **35.1%** of all encounters — the single largest payer category. No Insurance follows at **15.9%** and Medicaid at **11.8%**. Combined, government payers and uninsured patients represent **62.8%** of all encounters, a majority of SDRMC's volume operating under fixed-rate or zero-recovery revenue models
-* Commercial payers collectively represent **37.2%** of encounters, but generate the strongest collection performance, clustering between **76.3%** and **79.2%** on accepted claims versus Medicaid at **68.1%** and No Insurance at **25.4%**
-* Every percentage-point shift toward a commercial payer mix represents a disproportionate improvement in collection performance. The current payer concentration is not a billing problem — it is a structural revenue constraint that defines the ceiling of what billing optimization alone can achieve
+* Medicare accounts for **35.1%** of all encounters — the single largest payer category. No Insurance follows at **15.9%** and Medicaid at **11.8%**. Combined, government payers and uninsured patients represent **62.8%** of all encounters, a majority of SDRMC's volume operating under fixed-rate or zero-recovery revenue models.
+* Commercial payers collectively represent **37.2%** of encounters, but generate the strongest collection performance, clustering between **76.3%** and **79.2%** on accepted claims versus Medicaid at **68.1%** and No Insurance at **25.4%**.
+* Every percentage-point shift toward a commercial payer mix represents a disproportionate improvement in collection performance. The current payer concentration is not a billing problem — it is a structural revenue constraint that defines the ceiling of what billing optimization alone can achieve.
 
 **The uninsured segment creates a cash flow drag that compounds across every dimension of the revenue cycle**
-* Uninsured patients average **120 days** from claim submission to payment — the time between when the hospital submits a bill and when it receives any money — more than **5x** the government payer average of **23 days** and **4.5x** the commercial average of **27 days**. The blended Days in A/R across all payer types is **40 days**
-* The net collection rate — the percentage of billed charges actually collected — stands at **75.7%** on accepted claims. No Insurance sits at **25.4%** — less than a third of Medicare's **79.6%** rate. Uninsured inpatient encounters cost **$17,514** more to deliver than equivalent insured encounters, a cost premium that is overwhelmingly unrecovered given the **25.4%** collection rate on uninsured claim
-* The net collection rate drops from **75.7%** on accepted claims to **69.0%** when denied and written-off claims are included, a **6.7** percentage point gap that quantifies the direct revenue cost of SDRMC's denial volume
+* Uninsured patients average **120 days** from claim submission to payment — the time between when the hospital submits a bill and when it receives any money — more than **5x** the government payer average of **23 days** and **4.5x** the commercial average of **27 days**. The blended Days in A/R across all payer types is **40 days**.
+* The net collection rate — the percentage of billed charges actually collected — stands at **75.7%** on accepted claims. No Insurance sits at **25.4%** — less than a third of Medicare's **79.6%** rate. Uninsured inpatient encounters cost **$17,514** more to deliver than equivalent insured encounters, a cost premium that is overwhelmingly unrecovered given the **25.4%** collection rate on uninsured claim.
+* The net collection rate drops from **75.7%** on accepted claims to **69.0%** when denied and written-off claims are included, a **6.7** percentage point gap that quantifies the direct revenue cost of SDRMC's denial volume.
 
 --- 
 
