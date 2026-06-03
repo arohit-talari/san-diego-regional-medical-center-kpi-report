@@ -40,12 +40,12 @@ On the revenue cycle, the blended claim denial rate of **8.6%** has improved fro
 <img src="images/act1_clinical_operations.png" width="800">
 </p>
 
-**Inpatient encounters represent the smallest share of volume, but carry the highest clinical and financial weight**
+**Inpatient encounters represent the smallest share of volume — but carry the highest clinical and financial weight**
 * SDRMC recorded **9,169** total encounters between 2018 and 2024, averaging **1,310** per year. Of those, **349** were classified as inpatient encounters — a **3.8%** inpatient rate — representing the highest-acuity and highest-cost visit category in the data
 * The 30-day readmission rate averaged **10.9%** across the period (**38 readmissions, 349 inpatient encounters**), peaking at **15.5%** in 2018–2019 before dropping to **6.0%** in 2021 as admission volumes contracted during the pandemic
 * Post-pandemic readmission rates have stabilized in the **10–11%** range — above the COVID-era low but below the pre-pandemic peak — signaling an opportunity to sustain the operational discipline demonstrated during 2020–2021. For a COO focused on care quality and patient flow, closing the gap between the current **10.9%** rate and the **6.0%** COVID-era low is the most direct lever available.
 
-**The COVID period exposed the fragility of inpatient efficiency — full recovery hasn't arrived**
+**The COVID period exposed the fragility of inpatient efficiency — and full recovery hasn't arrived**
 * Average inpatient length of stay held at **54** hours in 2018–2019 before surging **43%** to **78** hours at its 2021 peak, driven by the complexity and intensity of COVID-era inpatient care
 * By 2022, LOS returned to approximately **56** hours and has hovered near **55** hours through 2024, still **2%** above the pre-pandemic baseline of **54** hours
 * At **349** inpatient encounters per period, each additional hour of average LOS represents **349** bed-hours of capacity. For a COO evaluating inpatient efficiency, the **1-hour gap** from the pre-pandemic baseline represents recoverable capacity that the hospital has not yet reclaimed.
